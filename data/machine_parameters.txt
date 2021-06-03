@@ -1,0 +1,7 @@
+Loading rates
+A1 = 0.25 kN/s
+Rest = 0.1 kN/s
+
+Pre-load
+A1 = 2.1 kN
+Rest = 1.4 kN
