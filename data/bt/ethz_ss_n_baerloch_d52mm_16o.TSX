@@ -1,0 +1,22 @@
+CATMAN TEST FILE
+PATH=C:\Documents and Settings\rockmech\My Documents\HBM\catmanEasy\DATA\3DPrint\Middle Standstone
+Job name=Job1
+Data file with path=C:\Documents and Settings\rockmech\My Documents\HBM\catmanEasy\DATA\3DPrint\Middle Standstone\16o.ASC
+Data file=16o.ASC
+File comment=
+Operator=
+Department=
+Comment=
+Default sample rate=100 Hz
+Slow sample rate=10 Hz
+Fast sample rate=2400 Hz
+Number of samples default sample rate=0
+Number of samples slow sample rate=0
+Number of samples fast sample rate=105695
+Start mode=Manual
+Start time=10.12.2015 11:51:14
+Stop mode=Manual
+Stop time=10.12.2015 11:51:58
+catmanEasy/AP version=3.5.1.48
+Numerical precision=8 Byte Float
+DATAFILE=C:\Documents and Settings\rockmech\My Documents\HBM\catmanEasy\DATA\3DPrint\Middle Standstone\16o.ASC

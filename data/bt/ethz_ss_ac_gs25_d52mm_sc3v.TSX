@@ -1,0 +1,22 @@
+CATMAN TEST FILE
+PATH=C:\Documents and Settings\rockmech\My Documents\HBM\catmanEasy\DATA\3DPrint\CoarseBlock
+Job name=Job1
+Data file with path=C:\Documents and Settings\rockmech\My Documents\HBM\catmanEasy\DATA\3DPrint\CoarseBlock\Cplane_Bdir_3_V.ASC
+Data file=Cplane_Bdir_3_V.ASC
+File comment=
+Operator=
+Department=
+Comment=
+Default sample rate=100 Hz
+Slow sample rate=10 Hz
+Fast sample rate=2400 Hz
+Number of samples default sample rate=9773
+Number of samples slow sample rate=0
+Number of samples fast sample rate=0
+Start mode=Manual
+Start time=12.11.2015 15:57:21
+Stop mode=Manual
+Stop time=12.11.2015 15:58:59
+catmanEasy/AP version=3.5.1.48
+Numerical precision=8 Byte Float
+DATAFILE=C:\Documents and Settings\rockmech\My Documents\HBM\catmanEasy\DATA\3DPrint\CoarseBlock\Cplane_Bdir_3_V.ASC
